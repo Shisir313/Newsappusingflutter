@@ -184,6 +184,7 @@ class _dashboardState extends State<dashboard> {
           //vertical Scroll
 
           Container(
+            width: size.width,
             height: size.height/1.8,
             child: SingleChildScrollView(
 
